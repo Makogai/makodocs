@@ -4,14 +4,13 @@ layout: home
 
 hero:
   name: "Mako Docs"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "Stupid docs site"
   actions:
     - theme: brand
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Anime
       link: /api-examples
 
 features:
