@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Mako Docs"
-  text: "Stupid docs site"
+  text: "Stupid docs site."
   actions:
     - theme: brand
       text: Markdown Examples
